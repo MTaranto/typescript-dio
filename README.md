@@ -1,2 +1,2 @@
-# typescript-dio
-Curso de Intodução ao TypeScript da DIO
+# Curso de Intodução ao TypeScript da DIO
+typescript-dio
