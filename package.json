@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Curso de Intodução ao TypeScript da DIO",
   "dependencies": {
     "jquery": "^3.6.0",
     "parcel-bundler": "^1.12.5"
@@ -16,5 +16,13 @@
   "devDependencies": {
     "@types/jquery": "^3.5.6",
     "typescript": "^4.4.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTaranto/typescript-dio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MTaranto/typescript-dio/issues"
+  },
+  "homepage": "https://github.com/MTaranto/typescript-dio#readme"
 }
